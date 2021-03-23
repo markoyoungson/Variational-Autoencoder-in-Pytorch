@@ -14,7 +14,7 @@ If you want a more in depth break down of the code and reasoning behind it check
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [What is Deep RL?](#What-is-Deep-RL?)
+
 
 
 ## General info
@@ -27,3 +27,5 @@ Project is created with:
 * Python version: 3.8.5
 * Pytorch version: 1.8.0
 * Numpy: 1.19.2
+
+
