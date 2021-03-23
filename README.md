@@ -9,7 +9,6 @@ Here I will be showing all my code for my project on creating an VAEs to replica
 
 
 
-If you want a more in depth break down of the code and reasoning behind it check out my [article]) I wrote on it!
 
 ## Table of contents
 * [General info](#general-info)
