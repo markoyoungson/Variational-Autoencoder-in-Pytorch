@@ -4,8 +4,7 @@ Implementation of VAEs in Pytorch for MNIST dataset
 
 Hey everyone!
 Here I will be showing all my code for my project on creating an VAEs to replicate a MNIST dataset
-
-
+If you want to understand more about VAEs check out my article [Here](https://mark-youngson5.medium.com/variational-autoencoders-vaes-51a26d0ed7d7)
 
 
 
